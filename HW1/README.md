@@ -1,5 +1,5 @@
 # OS Homework 1 — Pointer Analysis
-link: https://github.com/haykmatshkalian/OS_hw1
+link: https://github.com/haykmatshkalian/OS_HWs.git
 
 ## Assignment 1 — Pointer Basics
 
