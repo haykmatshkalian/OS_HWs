@@ -81,7 +81,7 @@ Changing the location of `exit()` changes when the program terminates, but the r
 * `exit()`
 * Program cleanup
 
-**File:** `prod3.c`
+**File:** `prob3.c`
 
 ---
 
