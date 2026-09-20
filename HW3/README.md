@@ -120,7 +120,7 @@ The parent can determine whether each child exited normally and can retrieve its
 * `waitpid()`
 * Exit status
 
-**File:** `prod4.c`
+**File:** `prob4.c`
 
 ---
 
